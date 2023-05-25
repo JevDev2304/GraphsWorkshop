@@ -19,5 +19,3 @@ This project was developed by:
 - Cristian Franco Raigosa
 - Juan Esteban Valdés Ospina
 
-Feel free to explore, contribute, and have fun! 😄🚀
-
